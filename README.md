@@ -41,31 +41,32 @@ With hands-on experience in web and mobile development, I build complete solutio
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=py" alt="Python" width="65" height="65" />
         <br>Python
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="65" height="65" />
         <br>JavaScript
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="65" height="65" />
         <br>TypeScript
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="PHP" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="65" height="65" />
         <br>PHP
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="65" height="65" />
         <br>Java
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="65" height="65" />
         <br>C++
       </td>
     </tr>
   </table>
+</div>
 
   <br>
 
